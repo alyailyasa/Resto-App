@@ -38,6 +38,10 @@ body {
     color: #000;
 }
 
+.color-antiquewhite{
+  color: antiquewhite;
+}
+
 .mr-top{
     margin-top: 60px;
 }
